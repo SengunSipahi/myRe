@@ -15,16 +15,7 @@
 {
 "firstname":"mustafa"
 "age":19
-"mail":"mustafa@gmail.com"},
-{
-"firstname":"johny"
-"age":18
-"mail":"johny@gmail.com"},
-{
-"firstname":"jeremy"
-"age":23
-"mail":"jeremy@gmail.com"},
-
+"mail":"mustafa@gmail.com"}
 }
 ]
 }
